@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoyAgaci.Api", "SoyAgaci.Api.csproj", "{A636B3C2-328C-B455-967D-5C12BA76A491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A636B3C2-328C-B455-967D-5C12BA76A491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A636B3C2-328C-B455-967D-5C12BA76A491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A636B3C2-328C-B455-967D-5C12BA76A491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A636B3C2-328C-B455-967D-5C12BA76A491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EBC519-AAAC-4565-A9BC-45DCAF8E8C78}
+	EndGlobalSection
+EndGlobal

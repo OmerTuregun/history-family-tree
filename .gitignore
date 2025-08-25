@@ -1,0 +1,11 @@
+bin/
+obj/
+publish/
+*.user
+*.swp
+*.suo
+.vs/
+.idea/
+.env
+# production secrets
+appsettings.Production.json
